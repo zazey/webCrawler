@@ -9,6 +9,7 @@ Cochrane Web Crawler
 ## Running the Crawler
 
  * Step 1:  Log into Cochrane Library : https://www.cochranelibrary.com/
+ * Step 2: Ensure outputResults folder exists in $DownloadDIR\
  * Step 2: Open CMD line and run : "java -jar webCrawler.jar
  
 ## Output
