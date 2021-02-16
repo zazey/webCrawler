@@ -2,8 +2,8 @@
 Cochrane Web Crawler
 
 ## Requirements:
-JRE 1.7+
-Actively logged in to https://www.cochranelibrary.com/ -- This is required for maintaining cookies
+ * JRE 1.7+
+ * Actively logged in to https://www.cochranelibrary.com/ -- This is required for maintaining cookies
 
 
 ## Running the Crawler
