@@ -14,4 +14,4 @@ Cochrane Web Crawler
  
 ## Output
  * Output is saved to ..\outputResults\Reviews.txt
- * *NOTE: The current sample output is not a fully run sample, the crawler takes some time to run.  However, if you let it run you will see it append new data until completion. 
+ * *NOTE: The current sample output is not a fully run sample, the crawler takes some time to run.  However, if you let it run you will see it append new data until completion.* 
